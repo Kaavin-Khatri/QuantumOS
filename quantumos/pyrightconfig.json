@@ -1,0 +1,12 @@
+{
+  "venvPath": "c:/Users/khatr/Documents/OuantumOS/quantumos/backend",
+  "venv": ".venv",
+  "executionEnvironments": [
+    {
+      "root": "c:/Users/khatr/Documents/OuantumOS/quantumos/backend",
+      "extraPaths": [
+        "c:/Users/khatr/Documents/OuantumOS/quantumos/backend"
+      ]
+    }
+  ]
+}
